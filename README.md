@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram Bot with Gemini API Integration
 
 This Telegram bot enables powerful features like Gemini-powered chat, file analysis, and more.  
@@ -29,3 +30,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/Pujan1306/Telegram-Bot.git
 cd Telegram-Bot
 pip install -r requirements.txt
+=======
+# Telegram-Bot
+>>>>>>> bafe85df3a1f5dd23c89f74e4faa0ab79f8ea354
