@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Constants and configurations
-TELEGRAM_TOKEN = os.getenv("7260145331:AAHU4Mpxm0TxQaLD3jHekgIAyLunwFTkPQc")
-GEMINI_API_KEY = os.getenv("AIzaSyBb3t1NdSRrb1Qx4oc5ziJ0rzEYoReWvqM")
+TELEGRAM_TOKEN = os.getenv("")
+GEMINI_API_KEY = os.getenv("")
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
 mongo_client = pymongo.MongoClient(MONGO_URI)
 db = mongo_client['telegram_bot']
