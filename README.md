@@ -19,7 +19,7 @@ This Telegram bot enables powerful features like Gemini-powered chat, file analy
 
 ## Setup and Deployment
 ### Prerequisites
-1. Python 3.8 or higher.
+1. Python 3.12 or higher.
 2. A MongoDB cluster (Atlas or local instance).
 3. A valid Telegram bot token from [BotFather](https://core.telegram.org/bots#botfather).
 4. Gemini API Key for text/image processing.
